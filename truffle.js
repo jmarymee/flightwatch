@@ -9,7 +9,7 @@ module.exports = {
   mocha: {
     reporter: "spec",
     reporterOptions: {
-      mochaFile: 'junitresults.xml'
+      mochaFile: 'junitresults1.xml'
     }
   }
 };
