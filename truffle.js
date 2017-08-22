@@ -7,7 +7,7 @@ module.exports = {
     }
   },
   mocha: {
-    reporter: "mocha-junit-reporter",
+    reporter: "spec",
     reporterOptions: {
       mochaFile: 'junitresults.xml'
     }
